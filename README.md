@@ -1,2 +1,3 @@
-Este é um roteiro de estudos
-PYthon e Machine Learning
+Roteiro de estudos
+
+Para Python e Machine Learning
